@@ -77,6 +77,11 @@ header {
   width: 200px;
 }
 
+.left-block {
+  position: fixed;
+  width: 200px;
+}
+
 nav {
   text-transform: uppercase;
 }
@@ -360,4 +365,3 @@ and (max-device-width : 667px) {
     font-size: 1.5rem;
   }
 }
-
